@@ -1,0 +1,18 @@
+{
+  "headline": "GitHub[pityumajsaii-cell/pityumajsaii-cell-IT-PROG]: No public",
+  "url": "https://github.com/pityumajsaii-cell/pityumajsaii-cell-IT-PROG/issues/4",
+  "expected_usd": 50.0,
+  "strategy": "锁定明码 bounty；交付代码+run_log+sample_data，并准备自动交割链接。",
+  "raw_expected": "50.00 USD",
+  "bounty_literal": "50 USD",
+  "source_line": "## 🚨 发现新商机：GitHub[pityumajsaii-cell/pityumajsaii-cell-IT-PROG]: No public",
+  "kind": "generic_automation",
+  "difficulty": 1.0,
+  "score": 50.0,
+  "oid": "0ff6319bfe5123e44573ee00d5244e6df4d028d620e1d9c290bf92ac631e9f95",
+  "payout": {
+    "asset": "USDT",
+    "chain": "EVM",
+    "wallet": "0xF57503F99fA20b912200ed90D26d945093136ef5"
+  }
+}
